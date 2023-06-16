@@ -1,6 +1,6 @@
 # gurman-portfolio
 
-Hi there , I am Gurmanpreet Singh. I love creating and develop funky looking webpages...
+Hi there , I am Gurmanpreet Singh. I love creating and developing funky looking webpages...
 
 ## Currently I am familiar with using :
 
