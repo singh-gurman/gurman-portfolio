@@ -1,4 +1,4 @@
-# gurman-portfolio
+# Gurman's portfolio (TEST)
 
 Hi there , I am Gurmanpreet Singh. I love creating and developing funky looking webpages...
 
